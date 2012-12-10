@@ -60,8 +60,8 @@
     <autogen>--KeyToKey-- KeyCode::G, ModifierFlag::COMMAND_L, KeyCode::VK_NONE</autogen>
     <autogen>--KeyToKey-- KeyCode::Z, ModifierFlag::COMMAND_L, KeyCode::VK_NONE</autogen>
     <autogen>--KeyToKey-- KeyCode::X, ModifierFlag::COMMAND_L, KeyCode::VK_NONE</autogen>
-    <autogen>--KeyToKey-- KeyCode::C, ModifierFlag::COMMAND_L, KeyCode::VK_NONE</autogen>
-    <autogen>--KeyToKey-- KeyCode::V, ModifierFlag::COMMAND_L, KeyCode::VK_NONE</autogen>
+    <!--<autogen>--KeyToKey-- KeyCode::C, ModifierFlag::COMMAND_L, KeyCode::VK_NONE</autogen>-->
+    <!--<autogen>--KeyToKey-- KeyCode::V, ModifierFlag::COMMAND_L, KeyCode::VK_NONE</autogen>-->
     <autogen>--KeyToKey-- KeyCode::BACKQUOTE, ModifierFlag::COMMAND_L, KeyCode::VK_NONE</autogen>
     <autogen>--KeyToKey-- KeyCode::KEY_1, ModifierFlag::COMMAND_L, KeyCode::VK_NONE</autogen>
     <autogen>--KeyToKey-- KeyCode::KEY_2, ModifierFlag::COMMAND_L, KeyCode::VK_NONE</autogen>
